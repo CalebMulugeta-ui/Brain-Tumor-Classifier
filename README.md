@@ -18,7 +18,7 @@ The goal of this project is to build and train a CNN capable of classifying MRI 
 - Training loop with forward/backward pass + parameter optimization  
 - Model evaluation with accuracy calculation  
 - Visualization of predictions on random images  
-- Achieves **~96% test accuracy** in the tutorial
+- Achieves **~96% test accuracy** 
 
 ---
 

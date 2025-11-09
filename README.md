@@ -1,6 +1,6 @@
 # Brain Tumor Classification with PyTorch (CNN)
 
-This project implements a Convolutional Neural Network (CNN) in PyTorch to classify brain tumor types from MRI scans. It follows the workflow demonstrated in the YouTube tutorial and covers data preparation, model creation, training, evaluation, and prediction visualization.
+This project implements a Convolutional Neural Network in PyTorch to classify brain tumor types from MRI scans.
 
 ---
 
